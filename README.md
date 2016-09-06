@@ -1,2 +1,2 @@
-# hello_world
-This is my first repository
+#hello_world
+Hi, people, I'm Ivan, I wanna develop java apps.
